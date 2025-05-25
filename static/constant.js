@@ -180,6 +180,18 @@ const DNS_PROVIDERS = {
       "zh-cn": "<a target='_blank' href='https://www.spaceship.com/application/api-manager/'>创建 API 密钥</a>",
     }
   },
+  hostker: {
+    name: {
+      "en": "Hostker",
+      "zh-cn": "主机壳"
+    },
+    idLabel: "email",
+    secretLabel: "secret",
+    helpHtml: {
+      "en": "<a target='_blank' href='https://www.hostker.com/'>Create API Key</a>",
+      "zh-cn": "<a target='_blank' href='https://www.hostker.com/'>创建 API 密钥</a>",
+    }
+  },
 };
 
 const SVG_CODE = {

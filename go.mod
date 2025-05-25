@@ -3,6 +3,7 @@ module github.com/jeessy2/ddns-go/v6
 go 1.23.6
 
 require (
+	github.com/csvwolf/ker.go v1.1.0
 	github.com/kardianos/service v1.2.2
 	github.com/wagslane/go-password-validator v0.3.0
 	golang.org/x/crypto v0.38.0

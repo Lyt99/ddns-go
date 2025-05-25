@@ -1,3 +1,5 @@
+github.com/csvwolf/ker.go v1.1.0 h1:SQo0bMTFE2TPFSJgEHm5qt6nUbPIF9z48Bevb6wavhM=
+github.com/csvwolf/ker.go v1.1.0/go.mod h1:fkJeU3uqo6GXHj0hKVXJ2Xcn3+aysqfzopXnHqrGCpc=
 github.com/kardianos/service v1.2.2 h1:ZvePhAHfvo0A7Mftk/tEzqEZ7Q4lgnR8sGz4xu1YX60=
 github.com/kardianos/service v1.2.2/go.mod h1:CIMRFEJVL+0DS1a3Nx06NaMn4Dz63Ng6O7dl0qH0zVM=
 github.com/wagslane/go-password-validator v0.3.0 h1:vfxOPzGHkz5S146HDpavl0cw1DSVP061Ry2PX0/ON6I=
